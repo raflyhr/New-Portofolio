@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 @import "tailwindcss";
 
 @layer base{
     body{
          font-family: "Poppins", sans-serif;
     }
+=======
+@import "tailwindcss";
+
+@layer base{
+    body{
+         font-family: "Poppins", sans-serif;
+    }
+>>>>>>> bf40f4357d1afebb5c2e46ad8a8942ea49a84356
 }
